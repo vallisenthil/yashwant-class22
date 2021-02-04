@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\Giri"
+		},
+		{
+			"path": "..\\bouncy ball"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Giri"
+	}
+}
